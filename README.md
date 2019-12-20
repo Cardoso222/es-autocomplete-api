@@ -1,5 +1,5 @@
 # es-autocomplete-api
-Example of autocomple API using NodeJs and Elasticsearch.
+Example of autocomplete suggestions API using NodeJs and Elasticsearch.
 
 ## Install
 
